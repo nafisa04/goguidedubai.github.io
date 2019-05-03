@@ -1,0 +1,54 @@
+.m-class {background-color: red}
+
+}
+.one {color:green
+}
+.two {color:orange
+}
+
+.centered {
+  align-items: center;
+}
+
+
+.navbar {
+  background:#E82B1E;
+}
+  .nav-link,
+  .navbar-brand {
+    color: #fff;
+    cursor: pointer;
+  }
+  .nav-link {
+    margin-right: 1em !important;
+  }
+  .nav-link:hover {
+    color: #F00;
+  }
+  .navbar-collapse {
+    justify-content: flex-end;
+  }
+  .footer {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color: red;
+    color: white;
+    text-align: center;
+  }
+.column
+{
+  width:33.33%;
+  float:left;
+}
+
+#coloumn2 {
+  display: flex;
+  justify-content: center;
+}
+
+.text-block {
+  background-color:black;
+  opacity: 0.6;
+}
